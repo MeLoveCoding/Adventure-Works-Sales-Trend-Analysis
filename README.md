@@ -26,43 +26,49 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   <b>Sales revenue Analysis (2020-2022)</b> 
 </p>
 <p align="center">
-<img width="2500" height="1250" alt="image" src="https://github.com/user-attachments/assets/3a4e0507-13ef-4966-8744-69dee79d437f" />
+<img width="2500" height="1250" alt="image" src="https://github.com/user-attachments/assets/a1e2a442-1a12-4b44-b9f6-049b835be645" />
+
 
 </p>
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<b>1. Revenue Growth and Peak Performance</b>
+<b>1. Overall Revenue Trend</b>
 
-- 2020 was the strongest year, with sales consistently growing each quarter.
-- Q4 2020 saw the highest revenue ($1.25M).
-- January 2021 also maintained strong sales.
+- Revenue shows a clear upward long-term trend from 2020 to 2022.
+- The trend line indicates that the business has been growing steadily over time, despite short-term fluctuations.
 
 <br>
 
-<b>2. Declining Trend in 2022</b>
+<b>2. Revenue Growth Acceleration in Late 2021</b>
 
-- Significant revenue decline occurred in Q4.
-- October, November and December were the weakest months.
+- Revenue remained relatively stable during most of 2020 and the first half of 2021.
+- Beginning around Q3 2021, revenue increased rapidly and maintained a higher level through much of 2022.
+- The highest revenue appears in mid-to-late 2022, reaching approximately $0.45M–$0.47M.
+- This represents the strongest sales performance during the observed period.
 
 </td>
 
 <td width="50%" valign="top">
 
-<b>3. Quarterly Insights & Seasonal Trends</b>
+<b>3. Key Insights </b>
 
-- Q3 and Q4 generally performed best.
-- Q1 2022 started strong but declined rapidly.
+- Revenue followed a strong upward trend from 2020–2022, indicating continuous business growth.
+- Revenue growth accelerated significantly during the second half of 2021, achieving peak monthly sales of $0.45M.
+- Revenue volatility increased as the business expanded, resulting in larger month-to-month fluctuations
 
-<br>
+<br> 
 
-<b>4. Key Takeaways & Recommendations</b>
+<b>4. Recommendations </b>
 
-- Investigate the causes of the 2022 decline.
-- Focus marketing on historically strong quarters.
-- Reassess pricing and customer engagement.
+- Investigate the causes of the 2021 sales peak (e.g, market expedition, product diversification, customer behaviours.)
+- Leverage high-performing periods focusing on top products and markets, refine customer profile to improve marketing and sales strategies.
+- Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement for more stable business income.
 
 </td>
 </tr>
 </table>
+<h1 align="center">Dataset Structure and ERD (Entity relationship diagram)</h1>
+The database structure as seen below consists of 8 tables: Sales Data, Customer Lookup, Territory Lookup, Calendar Lookup, Product Lookup, Product Categories Lookup, Product Subcategories Lookup, with a total of 56,086 sales records.
+<img width="1046" height="770" alt="image" src="https://github.com/user-attachments/assets/613fee81-ad24-49d3-adf1-7e44a4a9a6ab" />
