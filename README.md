@@ -72,3 +72,25 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 <h1 align="center">Dataset Structure and ERD (Entity relationship diagram)</h1>
 The database structure as seen below consists of 8 tables: Sales Data, Customer Lookup, Territory Lookup, Calendar Lookup, Product Lookup, Product Categories Lookup, Product Subcategories Lookup, with a total of 56,086 sales records.
 <img width="1046" height="770" alt="image" src="https://github.com/user-attachments/assets/613fee81-ad24-49d3-adf1-7e44a4a9a6ab" />
+<h1 align="center">Insight Deep-Dive</h1>
+<h2 align="center">Sales Trend</h2>
+<img width="924" height="283" alt="image" src="https://github.com/user-attachments/assets/8644d1df-ebc5-4758-ab5f-55dce1f9707b" />
+<img width="924" height="283" alt="image" src="https://github.com/user-attachments/assets/6b1d0c9b-7c18-4c09-9f40-a91ef9cc91bd" />
+<table>
+<tr>
+<td>
+  <b>Customer Segment Shift</b>
+  
+  1. Initial Phrase (Jan 2020 - July 2020):
+     The business served a <b>small but exceptionally high-value</b> customer base. While the total number of customers remained low (under 100), Revenue per Customer fluctuated heavily at a very high level, hovering around $3,000.
+  2. Turning Point:
+     In July 2020, there was a <b> noticeable drop in average order value/revenue per customer </b> down to around $2,000, hinting at an early shift toward a broader, lower-value market.
+  3. The big Leap in 2021:
+     In July 2021, the charts showed a clear structure change in the company's sales strategy:
+     - Total Customers surged immediately from under 100 to roughly 300–400, continuing a steady climb to 400–500.
+     - Concurrently, Revenue per Customer dropped sharply to a new stable range of $500 to under $1,000.
+
+  These changes hint that the company has completely revolve its market toward a broader and lower-value customer segment by July 2021 and has successfully attracted a larger amount of customers, hence explained the dramatic increase in Sales Revenue in 2021.
+</td>
+</tr>
+</table>
