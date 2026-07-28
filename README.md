@@ -79,7 +79,7 @@ The database structure as seen below consists of 8 tables: Sales Data, Customer 
 <table>
 <tr>
 <td>
-  <b>Customer Segment Shift</b>
+  <b>Customer Segment Shift:</b>
   
   1. Initial Phrase (Jan 2020 - July 2020):
      The business served a <b>small but exceptionally high-value</b> customer base. While the total number of customers remained low (under 100), Revenue per Customer fluctuated heavily at a very high level, hovering around $3,000.
@@ -89,8 +89,24 @@ The database structure as seen below consists of 8 tables: Sales Data, Customer 
      In July 2021, the charts showed a clear structure change in the company's sales strategy:
      - Total Customers surged immediately from under 100 to roughly 300–400, continuing a steady climb to 400–500.
      - Concurrently, Revenue per Customer dropped sharply to a new stable range of $500 to under $1,000.
-
-  These changes hint that the company has completely revolve its market toward a broader and lower-value customer segment by July 2021 and has successfully attracted a larger amount of customers, hence explained the dramatic increase in Sales Revenue in 2021.
+  
+  <b>Trade-offs:</b>
+  - Although Revenue per individual customer fell significantly from over $3000 per customer in 2020 down to around $500 per customer in 2022, the dramatic increase in customer volume successfully compensated for it, ensuring a steadily rising revenue for the company. 
+- Following mid-2021 onward, both metrics (number of customers/revenue per customer) has achieved stability. This indicates that the new business model successfully found product-market fit and operated steadily through 2021 and 2022. Hence, explained the significant rise in revenue in 2021
 </td>
 </tr>
 </table>
+<h1 align="center">Product Performance</h1>
+<p align='center'>
+  <b>Bike Sales Surged after the introduction of Accessories and Clothing</b>
+</p>
+<img width="2500" height="1250" alt="image" src="https://github.com/user-attachments/assets/d6b783dd-1fc1-4d1a-ab38-cb33aad22d84" />
+<table>
+<tr>
+<td>
+  
+</td>
+</tr>
+</table>
+<img width="2500" height="1250" alt="image" src="https://github.com/user-attachments/assets/03253a7d-f9fe-4594-a276-51c8ce6b24f7" />
+<h1 align="center">Market Segment</h1>
