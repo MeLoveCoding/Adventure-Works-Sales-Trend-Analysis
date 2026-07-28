@@ -26,7 +26,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
   <b>Sales revenue Analysis (2020-2022)</b> 
 </p>
 <p align="center">
-<img width="2500" height="1250" alt="image" src="https://github.com/user-attachments/assets/a1e2a442-1a12-4b44-b9f6-049b835be645" />
+<img width="1284" height="748" alt="image" src="https://github.com/user-attachments/assets/e9acc141-8573-411f-aa97-442ae7f69880" />
+
+
 
 
 </p>
@@ -98,15 +100,69 @@ The database structure as seen below consists of 8 tables: Sales Data, Customer 
 </table>
 <h1 align="center">Product Performance</h1>
 <p align='center'>
-  <b>Bike Sales Surged after the introduction of Accessories and Clothing</b>
+  <b>The line chart below shows the weekly revenue of each category during the observed period</b>
+  
 </p>
 <img width="2500" height="1250" alt="image" src="https://github.com/user-attachments/assets/d6b783dd-1fc1-4d1a-ab38-cb33aad22d84" />
 <table>
 <tr>
 <td>
   
+  - Throughout the shown period from 2020 to 2022, Bikes has always been single-handedly drives the vast majority of the company's revenue, scaling aggressively from around $0.1M up to over $0.4M per week by 2022.
+
+  - By July 2021, the company started gaining revenue from selling accessories and clothing. At the same time, the revenue from Bikes dramatically increased, this spike suggests a successful cross-selling or product portfolio expansion strategy launched around July 2021 to complement the core bike business.
 </td>
 </tr>
 </table>
-<img width="2500" height="1250" alt="image" src="https://github.com/user-attachments/assets/03253a7d-f9fe-4594-a276-51c8ce6b24f7" />
+
 <h1 align="center">Market Segment</h1>
+<img width="1386" height="729" alt="image" src="https://github.com/user-attachments/assets/dc8a97e1-23aa-4b2c-ad28-623eeb92feb1" />
+
+<img width="1244" height="717" alt="image" src="https://github.com/user-attachments/assets/6ce51bef-01eb-4bed-95f0-f5fe0acc8e3f" />
+<table>
+<tr>
+<td>
+  
+  - The United States and Australia regions contributes the most to sales revenue of AdventureWorks throughout 2020 to 2022, especially after the July 2021 product expedition.
+- In 2022, the United States and Australia combines generated over $15M in revenue, about 60% of the total revenue of the company.
+- In contrast, there have not been a significant revenue improvement in other regions, especially in Europe countries.
+    
+</td>
+</tr>
+</table>
+<h2 align="center">Dashboard Visualizations</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="images/chart1.png" alt="Revenue Analysis" width="100%"><br>
+      <b>Revenue Analysis</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="images/chart2.png" alt="Profit Analysis" width="100%"><br>
+      <b>Profit Analysis</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <img src="images/chart3.png" alt="Customer Analysis" width="100%"><br>
+      <b>Customer Analysis</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="images/chart4.png" alt="Regional Performance" width="100%"><br>
+      <b>Regional Performance</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <img src="images/chart5.png" alt="Product Performance" width="100%"><br>
+      <b>Product Performance</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="images/chart6.png" alt="Customer Segmentation" width="100%"><br>
+      <b>Customer Segmentation</b>
+    </td>
+  </tr>
+</table>
