@@ -14,7 +14,6 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 - **Sales trends - Focusing on key metrics of sales revenue, profit, number of orders placed and the return rates.**
 - **Product performance - Analyzing different product lines, market impact and refund rates to inform strategic product decisions**
-- **Customer Details - Identifying the customer profile of the company and providing recommendations to maximize customer engagement and retention.**
 - **Regional results - Evaluating regional demand and product performance with regions to identify areas for improvement.**
 
 </td>
@@ -130,39 +129,63 @@ The database structure as seen below consists of 8 tables: Sales Data, Customer 
 </td>
 </tr>
 </table>
-<h2 align="center">Dashboard Visualizations</h2>
+<h2 align="center">Regional Customer Income Levels</h2>
 
-<table>
+<table align='center'>
   <tr>
-    <td width="50%" align="center">
-      <img src="images/chart1.png" alt="Revenue Analysis" width="100%"><br>
-      <b>Revenue Analysis</b>
+    <td align="center" width="33%">
+      <img alt="image" src="https://github.com/user-attachments/assets/910517ba-09a6-451e-93bb-eecfc29ea1d4" />
+<br/>
+      <sub><b>The United States</b></sub>
     </td>
-    <td width="50%" align="center">
-      <img src="images/chart2.png" alt="Profit Analysis" width="100%"><br>
-      <b>Profit Analysis</b>
+    <td align="center" width="33%">
+      <img width="282" height="312" alt="image" src="https://github.com/user-attachments/assets/43fd986b-3531-49a9-8642-2e27ad9e43a0" />
+<br/>
+      <sub><b>Australia</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img width="282" height="312" alt="image" src="https://github.com/user-attachments/assets/198af991-e239-4584-a26b-5c1697bd771f" />
+<br/>
+      <sub><b>Canada</b></sub>
     </td>
   </tr>
-
   <tr>
-    <td width="50%" align="center">
-      <img src="images/chart3.png" alt="Customer Analysis" width="100%"><br>
-      <b>Customer Analysis</b>
+    <td align="center">
+      <img width="282" height="312" alt="image" src="https://github.com/user-attachments/assets/4fdcde01-3f9d-4c28-a754-c0340f7e0c4f" />
+<br/>
+      <sub><b>France</b></sub>
     </td>
-    <td width="50%" align="center">
-      <img src="images/chart4.png" alt="Regional Performance" width="100%"><br>
-      <b>Regional Performance</b>
+    <td align="center">
+      <img width="282" height="312" alt="image" src="https://github.com/user-attachments/assets/d97e37b9-a6ba-47b2-b69d-d5925f511797" />
+<br/>
+      <sub><b>Germany</b></sub>
     </td>
-  </tr>
-
-  <tr>
-    <td width="50%" align="center">
-      <img src="images/chart5.png" alt="Product Performance" width="100%"><br>
-      <b>Product Performance</b>
-    </td>
-    <td width="50%" align="center">
-      <img src="images/chart6.png" alt="Customer Segmentation" width="100%"><br>
-      <b>Customer Segmentation</b>
+    <td align="center">
+      <img width="282" height="312" alt="image" src="https://github.com/user-attachments/assets/66daba9a-2926-4ef6-af29-e906ee2ade34" />
+<br/>
+      <sub><b>United Kingdom</b></sub>
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+
+- Customers in the United States, Canada and Australia have over 60% qualified as High-Income customers. Meanwhile, the majority of customers in Europe countries stays in the Low-Income level.
+- The number of customer is also considerably lower in Europe countries compare to the United States, Australia or Canada.
+- These evidences indicates that while the product expedition program has achieved successes in North America and Australia, these strategies does not appear to be effective in the Europe market.
+    </td>
+  </tr>
+</table>
+</table>
+<h1 align='center'>
+  Recommendations
+</h1>
+<h4>
+  Based on the insights reviewed above, here are some recommendations that AdventureWorks can take away from our analysis.
+  
+</h4>
+<h3>
+  <b>Sales:</b>
+</h3>
