@@ -1,6 +1,11 @@
 <img width="2500" height="1250" alt="AdventureWorks_Logo" src="https://github.com/user-attachments/assets/6580e3dd-3fba-42a3-90fe-0cfc160c4d9b" />
 
-<h1 align="center">📊 Adventure Works Sales </h1>
+<h1 align="center"> Adventure Works Sales </h1>
+<p align="center">
+  
+[![Power BI](https://img.shields.io/badge/Power_BI-View_Report-1DEDF1?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/3f6874a2-97a0-473e-a0eb-de5bc2b259ae/a7ea6591a931d1ee86b4?experience=power-bi)
+
+</p>
 <table>
 <tr>
 <td>
@@ -19,6 +24,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 </td>
 </tr>
 </table>
+
 
 <h1 align="center">Executive Summary</h1>
 <p align="center"> 
