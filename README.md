@@ -2,9 +2,9 @@
 
 <h1 align="center"> Adventure Works Sales </h1>
 <p align="center">
-  
-[![Power BI](https://img.shields.io/badge/Power_BI-View_Report-1DEDF1?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/3f6874a2-97a0-473e-a0eb-de5bc2b259ae/a7ea6591a931d1ee86b4?experience=power-bi)
-
+  <a href="AdventureWorks BI.pbix" download>
+<img src="https://img.shields.io/badge/Download-Power%20BI%20Report-blue?style=for-the-badge&logo=powerbi" alt="Download Power BI Report">
+  </a>
 </p>
 <table>
 <tr>
