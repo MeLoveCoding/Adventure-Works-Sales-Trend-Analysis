@@ -37,6 +37,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 <b>1. Overall Revenue Trend</b>
 
+- All main KPIs have relatively good growth.
 - Revenue shows a clear upward long-term trend from 2020 to 2022.
 - The trend line indicates that the business has been growing steadily over time, despite short-term fluctuations.
 
@@ -45,7 +46,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 <b>2. Revenue Growth Acceleration in Late 2021</b>
 
 - Revenue remained relatively stable during most of 2020 and the first half of 2021.
-- Beginning around Q3 2021, revenue increased rapidly and maintained a higher level through much of 2022.
+- Beginning around Q3 2021, revenue increased rapidly, mainly from bikes category and maintained a higher level through much of 2022.
 - The highest revenue appears in mid-to-late 2022, reaching approximately $0.45M–$0.47M.
 - This represents the strongest sales performance during the observed period.
 
@@ -55,9 +56,8 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 <b>3. Key Insights </b>
 
-- Revenue followed a strong upward trend from 2020–2022, indicating continuous business growth.
-- Revenue growth accelerated significantly during the second half of 2021, achieving peak monthly sales of $0.45M.
-- Revenue volatility increased as the business expanded, resulting in larger month-to-month fluctuations
+- Revenue followed a strong upward trend from 2020–2022, indicating a success business strategy shift.
+- Revenue growth accelerated significantly during the second half of 2021 after the introduction of Accessories and Clothing Categories, achieving peak monthly sales of $0.45M.
 
 <br> 
 
@@ -88,12 +88,12 @@ The database structure as seen below consists of 8 tables: Sales Data, Customer 
      In July 2020, there was a <b> noticeable drop in average order value/revenue per customer </b> down to around $2,000, hinting at an early shift toward a broader, lower-value market.
   3. The big Leap in 2021:
      In July 2021, the charts showed a clear structure change in the company's sales strategy:
-     - Total Customers surged immediately from under 100 to roughly 300–400, continuing a steady climb to 400–500.
-     - Concurrently, Revenue per Customer dropped sharply to a new stable range of $500 to under $1,000.
+     - Total Customers surged immediately <b>from under 100 to roughly 300–400</b>, continuing a steady climb to 400–500.
+     - Concurrently, <b>Revenue per Customer</b> dropped sharply to a new stable range of $500 to under $1,000.
   
   <b>Trade-offs:</b>
-  - Although Revenue per individual customer fell significantly from over $3000 per customer in 2020 down to around $500 per customer in 2022, the dramatic increase in customer volume successfully compensated for it, ensuring a steadily rising revenue for the company. 
-- Following mid-2021 onward, both metrics (number of customers/revenue per customer) has achieved stability. This indicates that the new business model successfully found product-market fit and operated steadily through 2021 and 2022. Hence, explained the significant rise in revenue in 2021
+  - Although Revenue per individual customer fell significantly from over $3000 per customer in 2020 down to around $500 per customer in 2022, the <b>dramatic increase in customer volume</b> successfully compensated for it, ensuring a steadily rising revenue for the company. 
+- Following mid-2021 onward, both metrics (number of customers/revenue per customer) has achieved stability. This indicates that the <b>new business model successfully found product-market fit</b> and operated steadily through 2021 and 2022. Hence, explained the significant rise in revenue in 2021
 </td>
 </tr>
 </table>
@@ -186,6 +186,32 @@ The database structure as seen below consists of 8 tables: Sales Data, Customer 
   Based on the insights reviewed above, here are some recommendations that AdventureWorks can take away from our analysis.
   
 </h4>
+
 <h3>
   <b>Sales:</b>
 </h3>
+
+- Expend market recognition by implementing marketing or promotional campaigns for gaining new customer.
+  - The company has achieve great revenue increase in July 2021 by diversifying it products line to a more affordable price tags. After find out the right business model, the next step is to identify AdventureWorks in the market as an affordable and high-quality Bike Company to attract new customers.
+    
+<h3>
+  <b>Products:</b>
+</h3>
+
+- Optimize inventory for high-performing products:
+
+  - The Bike inventory's revenue stream is the core to the success of the company, approaching $23 millions over the observed period. Especially Road/Mountain Bikes inventories as these two subcategories alone generate ~$19.7M (nearly 80% of all revenue) with solid margins (39% and 46% respectively).
+  - Accessories related to Road bikes and Mountain Bikes (Road Bottle Cage, Mountain Tire, Fender Set - Mountain,...) should be abundantly available at all store to support cross-selling strategy.
+
+- Deprioritize inventory for low-performing products.
+
+  - Touring Bikes ($3.8M, 38% margin, higher return rate) is the weakest of the three bike lines and may warrant a lineup review.
+  - The revenue and order number from clothing inventory is the lowest of all. Considering investigating the sales effectiveness of products in this category.
+
+<h3>
+  <b>Regions</b>
+</h3>
+
+- Implement different sales strategy in different regions:
+  - Maximizing market share in North America and Australia, as these regions dominate the sales revenue across all AdventureWorks products. As the average income level in theses regions are the highest, AdventureWorks should prioritize upgrade inventory capacity, open new shops, execute more marketing campaigns in these regions to enjoy the larger margin these regions has to offer.
+  - Optimizing the business strategy in Europe countries to match with lower customer income levels. 
